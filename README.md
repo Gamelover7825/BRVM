@@ -74,20 +74,20 @@ brvm
 
 ## Special thanks to
 
-alexvorxx - VirGL and Turnip + Zink libraries
+**alexvorxx:** VirGL and Turnip + Zink libraries
 
-Alpyne Dreams - D8VK libraries
+**Alpyne Dreams:** D8VK libraries
 
-doitsujin - DXVK libraries
+**doitsujin:** DXVK libraries
 
-DotNetBurst - InputBridge
+**DotNetBurst:** InputBridge
 
-Eltechs - ExaGear
+**Eltechs:** ExaGear
 
-Federico Dossena - WineD3D Libraries
+**Federico Dossena:** WineD3D Libraries
 
-Fredrick Fornwall - Termux
+**Fredrick Fornwall:** Termux
 
-ptitSeb - Box64
+**ptitSeb:** Box64
 
-WineHQ - Wine
+**WineHQ:** Wine
