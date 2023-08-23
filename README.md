@@ -6,11 +6,16 @@ Installation:
 1. Install the provided versions of Termux, Termux-x11 and InputBridge
 2. Put the BRVM.tar.gz file into the Download folder
 3. Set up the following parameters in Termux-x11:
+
    *Display Resolution Mode = exact*
+   
    *Display Resolution = 640x480*
+   
    *Show Additional Keyboard = disabled*
+   
    *Fullscreen on Device Display = enabled*
-4. Run the following commands in Termux:
+   
+5. Run the following commands in Termux:
 ```
 termux-setup-storage
 ```
