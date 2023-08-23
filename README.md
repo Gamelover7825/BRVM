@@ -31,7 +31,8 @@ brvm
 8. Copy the game to the C: drive or My Documents, and run the game's executable
 9. Go to your game's controls settings, create a new profile in InputBridge, create some on-screen buttons for the keyboard and mouse controls, which the game is mapped to
 10. Play your game on your mobile device
-11. Every time you (re)start Termux, type 'brvm' to run this virtual machine
+11. Every time you restart Termux, type 'brvm' to run this virtual machine
+
 
 
 
