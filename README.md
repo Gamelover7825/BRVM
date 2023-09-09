@@ -8,7 +8,7 @@
 
    *Display Resolution Mode = exact*
    
-   *Display Resolution = 640x480*
+   *Display Resolution = any value*
    
    *Show Additional Keyboard = disabled*
    
@@ -25,12 +25,12 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 ```
 brvm
 ```
-6. Open Termux-x11, you'll see the Wine desktop in a few seconds
+6. Type the display resolution you set in Termux-x11 (e.g. 640x480), press Enter, then open Termux-x11, you'll see the Wine desktop in a few seconds
 7. Copy your own PC games to your mobile device's Download folder, they'll be seen in the D: drive
 8. Copy the game to the C: drive or My Documents, and run the game's executable
 9. Go to your game's controls settings, create a new profile in InputBridge, create some on-screen buttons for the keyboard and mouse controls, which the game is mapped to
 10. Play your game on your mobile device
-11. Every time you restart Termux, type 'brvm' to run this virtual machine
+11. Every time you restart Termux, type 'brvm' and type your Termux-x11 display resolution to run this virtual machine
 
 
 
