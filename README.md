@@ -57,6 +57,10 @@ Winlator 1.0 original:
 
 https://github.com/brunodev85/winlator/releases/tag/v1.0.0
 
+ExaGear HUGO 5 in 1:
+
+https://www.mediafire.com/file/rbgsvndst1f1ff0/Hugo_5_em_1.zip/file
+
 ## How to get games
 
 You can find examples of pre-configured games in the following repositories:
