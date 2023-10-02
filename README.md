@@ -47,6 +47,16 @@ brvm
    *DXTn decompress*
 8. Tap 'Start Services' in VirGL every time you start a game
 
+## Non-BRVM alternatives:
+
+Winlator AFEI v1.1.14:
+
+https://drive.google.com/u/0/uc?id=1tGYWXeQ8VMyUR73bdqSJ6K43uY4ZgvnL&export=download
+
+Winlator 1.0 original:
+
+https://github.com/brunodev85/winlator/releases/tag/v1.0.0
+
 ## How to get games
 
 You can find examples of pre-configured games in the following repositories:
