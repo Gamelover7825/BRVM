@@ -47,6 +47,7 @@ brvm
    *DXTn decompress*
 8. Tap 'Start Services' in VirGL every time you start a game
 
+## How to get games
 
 You can find examples of pre-configured games in the following repositories:
 
