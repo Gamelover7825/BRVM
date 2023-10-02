@@ -26,7 +26,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 brvm
 ```
 6. Type the display resolution you set in Termux-x11 (e.g. 640x480), press Enter, then open Termux-x11, you'll see the Wine desktop in a few seconds
-7. Copy your own PC games to your mobile device's Download folder, they'll be seen in the D: drive
+7. Copy your PC games to your mobile device's Download folder, they'll be seen in the D: drive
 8. Copy the game to the C: drive or My Documents, and run the game's executable
 9. Go to your game's controls settings, create a new profile in InputBridge, create some on-screen buttons for the keyboard and mouse controls, which the game is mapped to
 10. Play your game on your mobile device
@@ -37,7 +37,7 @@ brvm
 ## Installation of Standalone versions
 1. Copy the obb folder to Android/obb/*package_name*
 2. Install the APK and wait until the cache is extracted
-3. Copy your own PC games to your mobile device's Download folder, they'll be seen in your container's D: drive
+3. Copy your PC games to your mobile device's Download folder, they'll be seen in your container's D: drive
 4. Create a new container and select settings that suit your game
 5. Run the container, copy the game to the C: drive or My Documents, and create a shortcut for your game's executable
 6. Exit the container and run the game from the shortcuts list
@@ -48,28 +48,9 @@ brvm
 8. Tap 'Start Services' in VirGL every time you start a game
 
 
-
-## Games that work well on VirGL
-- Grand Theft Auto: San Andreas
-- Grand Theft Auto: Vice City
-- Hard Truck 2: King of the Road
-- Need for Speed: Carbon
-- Need for Speed: Most Wanted
-- Need for Speed: Underground
-- Shrek 2: The Game
-
-## Games that work well on Turnip + Zink
-- 18 Wheels of Steel: Across America
-- 18 Wheels of Steel: Pedal to the Metal
-- Grand Theft Auto: San Andreas
-- Hard Truck 2 Beta
-- Hard Truck 2: King of the Road
-- Need for Speed: Carbon
-- Need for Speed: Most Wanted
-- Need for Speed: Underground
-- Shrek 2: The Game
-- Street Legal Racing: Redline
-- WR Rally
+You can find examples of pre-configured games in the following repositories:
+https://github.com/Gamelover7825/BRVM-PreconfiguredGames
+https://github.com/Gamelover7825/BRVM-EmbeddedGames
 
 
 ## Special thanks to
