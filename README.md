@@ -34,10 +34,14 @@ brvm
 1. Copy the obb folder to Android/obb/*package_name*
 2. Install the APK and wait until the cache is extracted
 3. If you use VirGL, check the following boxes:
+
    *Use new vtest protocol*
+   
    *Use OpenGL ES 3.x instead of OpenGL*
+   
    *DXTn decompress*
-4. Tap 'Start Services' in VirGL every time you start a Direct3D game
+   
+5. Tap 'Start Services' in VirGL every time you start a Direct3D game
 
 
 
