@@ -54,6 +54,13 @@ https://github.com/Gamelover7825/BRVM-PreconfiguredGames
 https://github.com/Gamelover7825/BRVM-EmbeddedGames
 
 
+## Video preview
+
+https://youtu.be/Hp8gOv_297U?feature=shared (Termux)
+
+https://youtu.be/-uH2tabCb4M?feature=shared (Standalone)
+
+
 ## Special thanks to
 
 **alexvorxx:** VirGL and Turnip + Zink libraries
