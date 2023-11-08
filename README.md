@@ -1,5 +1,5 @@
 # BriarRose Gaming Virtual Machine
-![1](https://github.com/yuraPIMENOV/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
+![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
 ## Installation of latest Termux version
 1. Install the provided versions of Termux, Termux-x11 and InputBridge
@@ -8,7 +8,7 @@
 
    *Display Resolution Mode = exact*
    
-   *Display Resolution = any value*
+   *Display Resolution = any value (640x480 recommended)*
    
    *Show Additional Keyboard = disabled*
    
@@ -25,8 +25,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 ```
 brvm
 ```
-6. Type the display resolution you set in Termux-x11 (e.g. 640x480), press Enter, then open Termux-x11, you'll see the Wine desktop in a few seconds
-7. Every time you restart Termux, run using the 'brvm' command and type your Termux-x11 display resolution
+6. The desktop will appear in a few seconds. Every time you restart Termux, run the virtual machine using the 'brvm' command
 
 
 
@@ -68,6 +67,8 @@ https://youtu.be/-uH2tabCb4M?feature=shared (Standalone)
 **Alpyne Dreams:** D8VK libraries
 
 **doitsujin:** DXVK libraries
+
+**JeezDisReez:** glibc prefix for Termux
 
 **DotNetBurst:** InputBridge
 
