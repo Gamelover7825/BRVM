@@ -8,7 +8,7 @@
 
    *Display Resolution Mode = exact*
    
-   *Display Resolution = any value (640x480 recommended)*
+   *Display Resolution = 640x480, 800x600, 1024x768 or 1600x1200*
    
    *Show Additional Keyboard = disabled*
    
@@ -25,7 +25,8 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 ```
 brvm
 ```
-6. The desktop will appear in a few seconds. Every time you restart Termux, run the virtual machine using the 'brvm' command
+6. Select the screen resolution you set in Termux-x11. The desktop will appear in a few seconds
+7. Every time you restart Termux, run the virtual machine using the 'brvm' command
 
 
 
