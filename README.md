@@ -34,7 +34,7 @@ brvm
 ## Installation/usage of latest Standalone version
 1. Copy the obb file to Android/obb/com.briarrose.vm
 2. Install the APK, wait until the virtual machine is set up
-3. To use VirGL, check the following boxes:
+3. Scroll down the upper panel and check the following boxes:
 
    *Render using new protocol*
    
@@ -43,7 +43,7 @@ brvm
    *Decompress textures (fixes graphical bugs)*
    
 4. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
-5. Tap 'Start Services' in VirGL every time you start a Direct3D game
+5. Tap 'Start Services' in the upper panel every time before you start a Direct3D game
 
 
 
