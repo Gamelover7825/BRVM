@@ -36,11 +36,11 @@ brvm
 2. Install the APK, wait until the virtual machine is set up
 3. To use VirGL, check the following boxes:
 
-   *Use new vtest protocol*
+   *Render using new protocol*
    
-   *Use OpenGL ES 3.x instead of OpenGL*
+   *Render using OpenGL ES 3.x*
    
-   *DXTn decompress*
+   *Decompress textures (fixes graphical bugs)*
    
 4. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
 5. Tap 'Start Services' in VirGL every time you start a Direct3D game
