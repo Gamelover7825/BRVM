@@ -1,7 +1,7 @@
 # BriarRose Gaming Virtual Machine
 ![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
-## Installation of latest Termux version
+## Installation/usage of latest Termux version
 1. Install the provided versions of Termux, Termux-x11 and InputBridge
 2. Put the BRVM.tar.gz file into the Download folder
 3. Set up the following parameters in Termux-x11:
@@ -14,7 +14,7 @@
    
    *Fullscreen on Device Display = enabled*
    
-5. Run the following commands in Termux:
+4. Run the following commands in Termux:
 ```
 termux-setup-storage
 ```
@@ -26,14 +26,15 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 brvm
 ```
 6. Select the screen resolution you set in Termux-x11. The desktop will appear in a few seconds
-7. Every time you restart Termux, run the virtual machine using the 'brvm' command
+7. To install games, copy them to the C: drive within Wine and run them from their executables
+8. Every time you restart Termux, run the virtual machine using the 'brvm' command
 
 
 
-## Installation of Standalone versions
-1. Copy the obb folder to Android/obb/*package_name*
-2. Install the APK and wait until the cache is extracted
-3. If you use VirGL, check the following boxes:
+## Installation/usage of latest Standalone version
+1. Copy the obb file to Android/obb/com.briarrose.vm
+2. Install the APK, wait until the virtual machine is set up
+3. To use VirGL, check the following boxes:
 
    *Use new vtest protocol*
    
@@ -41,24 +42,21 @@ brvm
    
    *DXTn decompress*
    
+4. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
 5. Tap 'Start Services' in VirGL every time you start a Direct3D game
 
 
 
 ## How to get games
 
-You can find examples of pre-configured games in the following repositories:
+You can find examples of pre-configured games in the following repository:
 
 https://github.com/Gamelover7825/BRVM-PreconfiguredGames
-
-https://github.com/Gamelover7825/BRVM-EmbeddedGames
 
 
 ## Video preview
 
-https://youtu.be/Hp8gOv_297U?feature=shared (Termux)
-
-https://youtu.be/-uH2tabCb4M?feature=shared (Standalone)
+https://youtu.be/KRvqqQESlO8
 
 
 ## Special thanks to
