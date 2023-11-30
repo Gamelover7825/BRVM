@@ -43,7 +43,7 @@ brvm
    *Decompress textures (fixes graphical bugs)*
    
 4. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
-5. Tap 'Start Services' in the upper panel every time before you start a Direct3D game
+5. Tap 'Start Rendering' in the upper panel every time before you start a Direct3D game
 
 
 
