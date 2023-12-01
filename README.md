@@ -67,8 +67,6 @@ https://youtu.be/KRvqqQESlO8
 
 **doitsujin:** DXVK libraries
 
-**JeezDisReez:** glibc prefix for Termux
-
 **DotNetBurst:** InputBridge
 
 **Eltechs:** ExaGear
@@ -76,6 +74,10 @@ https://youtu.be/KRvqqQESlO8
 **Federico Dossena:** WineD3D Libraries
 
 **Fredrick Fornwall:** Termux
+
+**JeezDisReez:** glibc prefix for Termux
+
+**mittorn:** VirGL overlay
 
 **ptitSeb:** Box64
 
