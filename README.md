@@ -25,7 +25,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 ```
 brvm
 ```
-6. Wait a few minutes while the virtual machine sets up. The desktop will appear when ready
+6. Wait a few minutes until the virtual machine is set up. The desktop will appear when ready
 7. To install games, copy them to the C: drive within Wine and run them from their executables
 8. Every time you restart Termux, run the virtual machine using the 'brvm' command. If the desktop didn't start, type '1' in Termux and wait a few seconds
 
