@@ -8,7 +8,7 @@
 
    *Display Resolution Mode = exact*
    
-   *Display Resolution = 640x480, 800x600, 1024x768 or 1600x1200*
+   *Display Resolution = 640x480
    
    *Show Additional Keyboard = disabled*
    
