@@ -20,7 +20,7 @@ brvm
 6. Every time you restart Termux, run the virtual machine using the 'brvm' command
 
 ### Standalone versions
-1. Copy the obb file to Android/obb/*package_name*
+1. Copy the obb file to Android/obb/* package_name *
 2. Install the APK, run it, then wait until the virtual machine is set up
 3. Create a new container for your games
 4. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
