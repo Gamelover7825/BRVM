@@ -30,16 +30,25 @@ brvm
 
 ## Best configuration for external applications
 ### Termux-x11
+
 ***Display Resolution Mode** = exact*
+
 ***Display Resolution** = any (640x480 recommended)*
+
 ***Show Additional Keyboard** = disabled*
+
 ***Fullscreen on Device Display** = enabled*
 
 ### VirGL Overlay
+
 ***Render using new protocol** / **Use vtest protocol 2** = enabled*
+
 ***Render using OpenGL ES 3.x** / **Use GLES 3.x instead of OpenGL** = enabled*
+
 ***Render in multi-thread mode** / **Use multi-thread EGL access** = disabled*
+
 ***Decompress textures (fixes graphical bugs)** / **DXTn (S3TC) decompress** = enabled*
+
 ***Restart rendering service automatically** / **Auto restart services** = disabled*
 
 
