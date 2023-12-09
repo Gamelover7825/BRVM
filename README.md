@@ -55,7 +55,7 @@ brvm
 
 ## How to get games
 
-You can find examples of pre-configured games in the following repository:
+In the following repository, you can find some pre-configured games:
 
 https://github.com/Gamelover7825/BRVM-PreconfiguredGames
 
