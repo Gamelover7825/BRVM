@@ -1,6 +1,22 @@
 # BriarRose Gaming Virtual Machine
 ![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
+## Minimum System Requirements
+### Termux releases
+- 64-bit Android 10.0 and above
+### Standalone releases
+- 32 and 64-bit Android 5.0 and above
+### Turnip + Zink rendering mode for Direct3D games
+- Adreno:  610 and above
+- Mali: not supported
+- PowerVR: not supported
+- Tegra: not supported
+### VirGL rendering mode for Direct3D games
+- Adreno: 405 and above
+- Mali: T830 and above
+- PowerVR: GE8300 and above
+- Tegra: not supported
+
 ## Installation and usage
 ### Termux versions
 1. Install the provided versions of Termux, Termux-x11 and InputBridge
