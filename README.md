@@ -2,9 +2,9 @@
 ![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
 ## System Requirements
-### Termux releases
+### Termux versions
 - 64-bit Android 10.0 and above
-### Standalone releases
+### Standalone versions
 - 32 and 64-bit Android 5.0 and above
 ### Turnip + Zink rendering mode for Direct3D games
 - Adreno:  610 and above
