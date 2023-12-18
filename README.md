@@ -89,6 +89,8 @@ https://youtu.be/KRvqqQESlO8
 
 **Alpyne Dreams:** D8VK libraries
 
+**brunodev85:** Winlator
+
 **doitsujin:** DXVK libraries
 
 **DotNetBurst:** InputBridge
@@ -97,11 +99,25 @@ https://youtu.be/KRvqqQESlO8
 
 **Federico Dossena:** WineD3D Libraries
 
+**FoxRain:** Winlator AFEI
+
 **Fredrick Fornwall:** Termux
+
+**Herick75:** Box4Droid
+
+**HUGO:** ExaGear 5in1
+
+**Ilya114:** Box64Droid
 
 **JeezDisReez:** glibc prefix for Termux
 
 **mittorn:** VirGL overlay
+
+**mr.frolof:** ExaGear MultiWine
+
+**olegos2:** Termux-Box, Mobox
+
+**Pipetto-crypto:** Androbox
 
 **ptitSeb:** Box64
 
