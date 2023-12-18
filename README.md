@@ -121,4 +121,6 @@ https://youtu.be/KRvqqQESlO8
 
 **ptitSeb:** Box64
 
+**Rob Clark:** Turnip / Freedreno drivers
+
 **WineHQ:** Wine
