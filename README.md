@@ -8,12 +8,12 @@
 - 32 and 64-bit Android 5.0 and above
 ### Winlator
 - 64-bit Android 9.0 and above
-### Turnip + Zink rendering mode for Direct3D games
+### Turnip + Zink graphic drivers for Direct3D games
 - Adreno:  610 and above
 - Mali: not supported
 - PowerVR: not supported
 - Tegra: not supported
-### VirGL rendering mode for Direct3D games
+### VirGL graphic drivers for Direct3D games
 - Adreno: 405 and above
 - Mali: T830 and above
 - PowerVR: GE8300 and above
