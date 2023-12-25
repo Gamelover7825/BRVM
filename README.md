@@ -57,7 +57,7 @@ brvm
 
 ***Fullscreen on Device Display** = enabled*
 
-### Direct3D Rendering Settings / VirGL Overlay
+### Direct3D Rendering Settings Panel / VirGL Overlay
 
 ***Render using new protocol** / **Use vtest protocol 2** = enabled*
 
