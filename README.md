@@ -42,7 +42,7 @@ brvm
 2. Install the APK, run it, then wait until the virtual machine is set up
 3. Create a new container for your games
 4. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
-5. Tap 'Start Rendering' / 'Start Services' in the Direct3D rendering settings / VirGL overlay every time before you start a Direct3D game
+5. Tap 'Start Rendering' _('Start Services')_ in the Direct3D rendering settings panel _(VirGL overlay)_ every time before you start a Direct3D game with VirGL renderer
 
 
 
