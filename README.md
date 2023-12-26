@@ -38,7 +38,7 @@ brvm
 6. Every time you restart Termux, run the virtual machine using the 'brvm' command
 
 ### Standalone versions
-1. Copy the obb file to Android/obb/* package_name *
+1. Copy the obb file to Android/obb/com.briarrose.vm
 2. Install the APK, rename the OBB from _main.30.com.briarrose.**vm**_ to _main.30.com.briarrose.**clone**_ if you selected a cloned APK
 3. Run the BRVM app, wait until the virtual machine is set up
 4. Create a new container for your games
