@@ -2,12 +2,12 @@
 ![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
 ## System Requirements
-### BRVM Termux versions
-- 64-bit Android 10.0 and above
-### BRVM Standalone versions / ExaGear
+### ExaGear
 - 32 and 64-bit Android 5.0 and above
 ### Winlator
 - 64-bit Android 9.0 and above
+### Termux _(Box64Droid, Termux-Box, Androbox, Mobox)_
+- 64-bit Android 10.0 and above
 ### Turnip + Zink graphic drivers for Direct3D games
 - Adreno:  610 and above
 - Mali: not supported
@@ -39,10 +39,11 @@ brvm
 
 ### Standalone versions
 1. Copy the obb file to Android/obb/* package_name *
-2. Install the APK, run it, then wait until the virtual machine is set up
-3. Create a new container for your games
-4. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
-5. Tap 'Start Rendering' _('Start Services')_ in the Direct3D rendering settings panel _(VirGL overlay)_ every time before you start a Direct3D game with VirGL renderer
+2. Install the APK, rename the OBB from _main.30.com.briarrose.**vm**_ to _main.30.com.briarrose.**clone**_ if you selected a cloned APK
+3. Run the BRVM app, wait until the virtual machine is set up
+4. Create a new container for your games
+5. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
+6. Tap 'Start Rendering' _('Start Services')_ in the Direct3D rendering settings panel _(VirGL overlay)_ every time before you start a Direct3D game with VirGL renderer
 
 
 
