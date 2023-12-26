@@ -2,14 +2,12 @@
 ![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
 ## System Requirements
-### ExaGear
-- 32 and 64-bit Android 5.0 and above
-### Winlator
-- 64-bit Android 9.0 and above
-### Termux _(Box64Droid, Termux-Box, Androbox, Mobox)_
-- 64-bit Android 10.0 and above
+### Emulators
+- ExaGear: 32 and 64-bit Android 5.0 and above
+- Winlator: 64-bit Android 9.0 and above
+- Termux _(Box64Droid, Termux-Box, Androbox, Mobox)_: 64-bit Android 10.0 and above
 ### Turnip + Zink graphic drivers for Direct3D games
-- Adreno:  610 and above
+- Adreno: 610 and above
 - Mali: not supported
 - PowerVR: not supported
 - Tegra: not supported
