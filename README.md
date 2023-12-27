@@ -94,7 +94,9 @@ https://youtu.be/KRvqqQESlO8
 
 **DotNetBurst:** InputBridge
 
-**Eltechs:** ExaGear
+**DreamWorks Animation LLC:** the 2 women on the project logo
+
+**Elbrus Technologies:** ExaGear
 
 **Federico Dossena:** WineD3D Libraries
 
