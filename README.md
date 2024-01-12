@@ -50,7 +50,7 @@ brvm
 
 ***Display Resolution Mode** = exact*
 
-***Display Resolution** = any (640x480 recommended)*
+***Display Resolution** = any resolution supported by your BRVM version*
 
 ***Show Additional Keyboard** = disabled*
 
