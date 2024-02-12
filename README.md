@@ -36,17 +36,15 @@ brvm
 6. Every time you restart Termux, run the virtual machine using the 'brvm' command
 
 ### Standalone versions
-1. Copy the OBB to _Android/obb/com.briarrose.vm_, install the APK
-2. If you selected a cloned APK, rename the OBB from _main.30.com.briarrose.**vm**_ to _main.30.com.briarrose.**clone**_
-3. Run the BRVM app, wait until the virtual machine is set up
-4. Create a new container for your games
-5. To install games, copy them to the C: drive within Wine and create shortcuts to their executables 
-6. Tap 'Start Rendering' _('Start Services')_ in the Direct3D rendering settings panel _(VirGL overlay)_ every time before you start a Direct3D game with VirGL renderer
+1. Name the OBB file (system image) as _main.30.com.briarrose.vm.obb_, copy it to _sdcard/Android/obb/com.briarrose.vm_
+2. If you're going to use a cloned APK, rename the system image to _Android/obb/com.briarrose.**clone**/main.30.com.briarrose.**clone**.obb_
+3. Install the BRVM APK, run it, wait until the virtual machine is set up
+4. Create containers for your games
+5. To install the games, copy them to the C: drive within Wine and create shortcuts to their executables 
 
 
 
-## Best configuration for external applications
-### Termux-x11
+## Termux-x11 best settings
 
 ***Display Resolution Mode** = exact*
 
@@ -55,19 +53,6 @@ brvm
 ***Show Additional Keyboard** = disabled*
 
 ***Fullscreen on Device Display** = enabled*
-
-### Direct3D Rendering Settings Panel / VirGL Overlay
-
-***Render using new protocol** / **Use vtest protocol 2** = enabled*
-
-***Render using OpenGL ES 3.x** / **Use GLES 3.x instead of OpenGL** = enabled*
-
-***Render in multi-thread mode** / **Use multi-thread EGL access** = disabled*
-
-***Decompress textures (fixes graphical bugs)** / **DXTn (S3TC) decompress** = enabled*
-
-***Restart rendering service automatically** / **Auto restart services** = disabled*
-
 
 
 ## How to get games
