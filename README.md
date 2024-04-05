@@ -1,6 +1,8 @@
 # BriarRose Gaming Virtual Machine
 ![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
+**Discord server:** https://discord.gg/PNUGHgDUb6
+
 ## System Requirements
 ### Emulators
 - ExaGear: 32 and 64-bit Android 5.0 and above
