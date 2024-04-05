@@ -30,12 +30,9 @@ termux-setup-storage
 ```
 tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions
 ```
-4. Restart Termux when a new line appears, then run the following command:
-```
-brvm
-```
+4. Restart Termux when a new line appears, then run the virtual machine using the `brvm` command
 5. When the desktop is set up, copy your games to the C: drive within Wine and run them from their executables
-6. Every time you restart Termux, run the virtual machine using the 'brvm' command
+6. Every time you restart Termux, run the virtual machine using the `brvm` command
 
 ### Termux-x11 best settings
 
