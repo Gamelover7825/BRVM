@@ -5,7 +5,9 @@
 
 ## Minimum Requirements
 **OS:** 64-bit Android 10.0
+
 **GPU:** Adreno 610
+
 **RAM:** 6 GB
 
 ## Installation and usage
