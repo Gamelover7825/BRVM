@@ -3,12 +3,12 @@
 
 **Discord server:** https://discord.gg/PNUGHgDUb6
 
-## Minimum Requirements
-**OS:** 64-bit Android 10.0
+## Requirements
+**OS:** 64-bit Android 10.0+
 
-**GPU:** Adreno 610 _(Mali and PowerVR not supported)_
+**GPU:** Adreno 610+ _(Mali and PowerVR not supported)_
 
-**RAM:** 6 GB
+**RAM:** 6+ GB
 
 ## Installation and usage
 1. Install the provided versions of Termux, Termux-x11 and InputBridge
