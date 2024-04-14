@@ -24,7 +24,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 5. When the desktop is set up, copy your games to the C: drive within Wine and run them from their executables
 6. Every time you restart Termux, run the virtual machine using the `brvm` command
 
-### Termux-x11 best settings
+## Termux-x11 best settings
 
 ***Display Resolution Mode** = exact*
 
