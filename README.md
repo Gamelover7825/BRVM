@@ -49,6 +49,8 @@ https://youtu.be/KRvqqQESlO8
 
 ## Special thanks to
 
+**ahmad1abbadi:** DarkOS
+
 **alexvorxx:** VirGL and Turnip + Zink libraries
 
 **Alpyne Dreams:** D8VK libraries
