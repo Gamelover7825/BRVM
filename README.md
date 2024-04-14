@@ -6,7 +6,7 @@
 ## Minimum Requirements
 **OS:** 64-bit Android 10.0
 
-**GPU:** Adreno 610
+**GPU:** Adreno 610 _(Mali and PowerVR not supported)_
 
 **RAM:** 6 GB
 
