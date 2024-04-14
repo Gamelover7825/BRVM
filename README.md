@@ -3,21 +3,10 @@
 
 **Discord server:** https://discord.gg/PNUGHgDUb6
 
-## System Requirements
-### Emulators
-- ExaGear: 32 and 64-bit Android 5.0 and above
-- Winlator: 64-bit Android 9.0 and above
-- Termux _(Box64Droid, Termux-Box, Androbox, Mobox)_: 64-bit Android 10.0 and above
-### Turnip + Zink graphic drivers for Direct3D games
-- Adreno: 610 and above
-- Mali: not supported
-- PowerVR: not supported
-- Tegra: not supported
-### VirGL graphic drivers for Direct3D games
-- Adreno: 405 and above
-- Mali: T830 and above
-- PowerVR: GE8300 and above
-- Tegra: not supported
+## Minimum Requirements
+**OS:** 64-bit Android 10.0
+**GPU:** Adreno 610
+**RAM:** 6 GB
 
 ## Installation and usage
 1. Install the provided versions of Termux, Termux-x11 and InputBridge
@@ -70,8 +59,6 @@ https://youtu.be/KRvqqQESlO8
 
 **DreamWorks Animation LLC:** the 2 women on the project logo
 
-**Elbrus Technologies:** ExaGear
-
 **Federico Dossena:** WineD3D Libraries
 
 **FoxRain:** Winlator AFEI
@@ -80,15 +67,9 @@ https://youtu.be/KRvqqQESlO8
 
 **Herick75:** Box4Droid
 
-**HUGO:** ExaGear 5in1
-
 **Ilya114:** Box64Droid
 
 **JeezDisReez:** glibc prefix for Termux
-
-**mittorn:** VirGL overlay
-
-**mr.frolof:** ExaGear MultiWine
 
 **olegos2:** Termux-Box, Mobox
 
