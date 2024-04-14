@@ -20,7 +20,6 @@
 - Tegra: not supported
 
 ## Installation and usage
-### Termux versions
 1. Install the provided versions of Termux, Termux-x11 and InputBridge
 2. Put the BRVM.tar.gz file into the Download folder
 3. Run the following commands in Termux:
@@ -42,14 +41,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 
 ***Show Additional Keyboard** = disabled*
 
-***Fullscreen on Device Display** = enabled*
-
-### Standalone versions
-1. Name the OBB file (system image) as _main.30.com.briarrose.vm.obb_, copy it to _sdcard/Android/obb/com.briarrose.vm_
-2. If you're going to use a cloned APK, rename the system image to _Android/obb/com.briarrose.**clone**/main.30.com.briarrose.**clone**.obb_
-3. Install the BRVM APK, run it, wait until the virtual machine is set up
-4. Create containers for your games
-5. To install the games, copy them to the C: drive within Wine and create shortcuts to their executables 
+***Fullscreen on Device Display** = enabled* 
 
 
 ## How to get games
