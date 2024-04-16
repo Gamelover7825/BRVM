@@ -49,38 +49,24 @@ https://youtu.be/KRvqqQESlO8
 
 ## Special thanks to
 
-**ahmad1abbadi:** DarkOS
+**alexvorxx:** Turnip + Zink libraries for Direct3D support in the project
 
-**alexvorxx:** VirGL and Turnip + Zink libraries
+**Alpyne Dreams:** D8VK libraries, used by Direct3D 8 games
 
-**Alpyne Dreams:** D8VK libraries
+**doitsujin:** DXVK libraries, used by Direct3D 9-12 games
 
-**brunodev85:** Winlator
-
-**doitsujin:** DXVK libraries
-
-**DotNetBurst:** InputBridge
+**DotNetBurst:** InputBridge controls overlay
 
 **DreamWorks Animation LLC:** the 2 women on the project logo
 
-**Federico Dossena:** WineD3D Libraries
-
-**FoxRain:** Winlator AFEI
-
 **Fredrick Fornwall:** Termux
-
-**Herick75:** Box4Droid
-
-**Ilya114:** Box64Droid
 
 **JeezDisReez:** glibc prefix for Termux
 
-**olegos2:** Termux-Box, Mobox
+**olegos2:** Mobox, the emulator which the project is built on the top of
 
-**Pipetto-crypto:** Androbox
+**ptitSeb:** Box64 and Box86 compatibility layers
 
-**ptitSeb:** Box64
+**Rob Clark:** Freedreno Turnip drivers for Qualcomm Snapdragon chips
 
-**Rob Clark:** Freedreno Turnip drivers
-
-**WineHQ:** Wine
+**WineHQ:** Wine compatibility layer
