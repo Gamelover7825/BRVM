@@ -28,7 +28,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 
 ***Display Resolution Mode** = exact*
 
-***Display Resolution** = any resolution supported by your BRVM version, 800x600 recommended*
+***Display Resolution** = 800x600 recommended*
 
 ***Show Additional Keyboard** = disabled*
 
