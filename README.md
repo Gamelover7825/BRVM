@@ -42,6 +42,13 @@ In the following repository, you can find some pre-configured games:
 https://github.com/Gamelover7825/BRVM-PreconfiguredGames
 
 
+## Development builds
+
+In the following repository, you can find some development builds of the project and experimental pre-configured games:
+
+https://github.com/Gamelover7825/BRVM-Development
+
+
 ## Video preview
 
 https://youtu.be/KRvqqQESlO8
