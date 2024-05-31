@@ -45,19 +45,13 @@ https://github.com/Gamelover7825/BRVM-PreconfiguredGames
 ## How to run games directly from the homescreen
 
 
-1. Make sure that a supported BRVM version is installed and completely set up, Termux allows notifications and drawing over other apps
-2. Install Activity Launcher and Termux Widget
-3. Create a folder _.shortcuts_ in _Z:\home_ inside BRVM if not exist, sometimes that folder is linked to _My Documents_, place there the shortcut template script file for your BRVM version
-4. Rename the shortcut template script to anything you want, open it with a text editor, you'll see something like this:
-    `export APPLI=$HOME/yourbatchfile.bat`
-5. That means that the directory _Z:\home_ is linked to _My Documents_ type the name of the batch file made to run your game instead of _yourbatchfile_, make sure that it is in _My Documents_, then save and close the script
-6. Using the activity launcher, find the Termux widget app, run the Termux shortcut activity, and tap on the shortcut you made to add it to the homescreen
-7. The game may be run minimized, tap 'Termux' in the notification panel to open it. If you have done everything correctly, your game will be run instead of the file manager
-8. If the game does not run directly from the shortcut, enable _Force landscape orientation_ in your Termux-x11 app
-
-### Things to do when running specific games from shortcuts
-
-- **Grand Theft Auto: San Andreas:** game may crash after loading a savegame, run it not from shortcut, load your savegame, and then resave your game
+1. Make sure that a supported BRVM version is installed and completely set up, Termux allows _notifications_ and _drawing over other apps_
+2. Install _Activity Launcher_ and _Termux Widget_
+3. Create a folder _.shortcuts_ in _Z:\home_ inside BRVM if not exist, sometimes that folder is linked to _My Documents_, place there the shortcut script file for your game and BRVM version
+4. Using the activity launcher, run the _Termux Shortcut_ activity of the _Termux Widget_ app, and tap on the shortcut you made to add it to the homescreen
+5. The game may be run minimized, tap _Termux_ in the notification panel to open it. If you have done everything correctly, your game will be run instead of the file manager
+6. If the game does not run directly from the shortcut, enable _Force landscape orientation_ in Termux-x11
+7. Some games may require a specific action to be run from shortcut
 
 
 
