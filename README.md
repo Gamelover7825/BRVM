@@ -5,7 +5,7 @@
 
 **Video preview:** https://youtu.be/KRvqqQESlO8
 
-## Requirements
+### Requirements
 **OS:** 64-bit Android 10.0+
 
 **GPU:** Adreno 610+ _(Mali and PowerVR not supported)_
