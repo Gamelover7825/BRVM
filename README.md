@@ -2,6 +2,7 @@
 ![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
 **Discord server:** https://discord.gg/PNUGHgDUb6
+**Video preview:** https://youtu.be/KRvqqQESlO8
 
 ## Requirements
 **OS:** 64-bit Android 10.0+
@@ -58,10 +59,6 @@ You can find here some controls profiles for the _InputBridge_ app: https://gith
 
 You can find here some development builds of the project and experimental pre-configured games: https://github.com/Gamelover7825/BRVM-Development
 
-
-## Video preview
-
-https://youtu.be/KRvqqQESlO8
 
 
 ## Special thanks to
