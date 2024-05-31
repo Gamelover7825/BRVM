@@ -46,12 +46,12 @@ https://github.com/Gamelover7825/BRVM-PreconfiguredGames
 
 
 1. Make sure that a supported BRVM version is installed and completely set up, Termux allows _notifications_ and _drawing over other apps_
-2. Install _Activity Launcher_ and _Termux Widget_
-3. Create a folder _.shortcuts_ in _Z:\home_ inside BRVM if not exist, sometimes that folder is linked to _My Documents_, place there the shortcut script file for your game and BRVM version
-4. Using the activity launcher, run the _Termux Shortcut_ activity of the _Termux Widget_ app, and tap on the shortcut you made to add it to the homescreen
+2. Install the provided utilities, _Activity Launcher_ and _Termux Widget_
+3. Inside the virtual machine, create a folder _.shortcuts_ in _Z:\home_ if not exist, place there the shortcut script file for your game and BRVM version
+4. Using _Activity Launcher_, run the _Termux Shortcut_ activity of the _Termux Widget_ app, and tap on the shortcut script file to add it to the homescreen
 5. The game may be run minimized, tap _Termux_ in the notification panel to open it. If you have done everything correctly, your game will be run instead of the file manager
-6. If the game does not run directly from the shortcut, enable _Force landscape orientation_ in Termux-x11
-7. Some games may require a specific action to be run from shortcut
+6. If the game does not run directly from the shortcut, enable _Force landscape orientation_ in _Termux-x11_ settings
+7. Some games may require a specific action to be successfully run from shortcut
 
 
 
