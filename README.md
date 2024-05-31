@@ -11,18 +11,17 @@
 **RAM:** 6+ GB
 
 ## Installation and usage
-1. Install the provided versions of Termux, Termux-x11 and InputBridge
-2. Put the BRVM.tar.gz file into the Download folder
-3. Run the following commands in Termux:
+1. Install the provided versions of _Termux_, _Termux-x11_ and _InputBridge_
+2. Put the _BRVM.tar.gz_ file into the _Download_ folder
+3. Run the following commands in _Termux_:
 ```
 termux-setup-storage
 ```
 ```
 tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive-unlink --preserve-permissions
 ```
-4. Restart Termux when a new line appears, then run the virtual machine using the `brvm` command
-5. When the desktop is set up, copy your games to the C: drive within Wine and run them from their executables
-6. Every time you restart Termux, run the virtual machine using the `brvm` command
+4. Restart _Termux_ when a new line appears, then run the virtual machine using the `brvm` command
+5. Wait until the desktop is completely set up. Every time you restart _Termux_, run the virtual machine using the `brvm` command
 
 ## Recommended Termux-x11 settings
 
@@ -37,12 +36,12 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 
 ## How to get games
 
-In the following repository, you can find some pre-configured games:
+You can find here some games pre-configured for minimal memory usage: https://github.com/Gamelover7825/BRVM-PreconfiguredGames
 
-https://github.com/Gamelover7825/BRVM-PreconfiguredGames
+You can find here some controls profiles for the _InputBridge_ app: https://github.com/Gamelover7825/BRVM-PreconfiguredGames/releases/tag/controls_ib
 
 
-## How to run games directly from the homescreen
+### How to run the pre-configured games directly from the homescreen
 
 
 1. Make sure that a supported BRVM version is installed and completely set up, Termux allows _notifications_ and _drawing over other apps_
@@ -50,16 +49,14 @@ https://github.com/Gamelover7825/BRVM-PreconfiguredGames
 3. Inside the virtual machine, create a folder _.shortcuts_ in _Z:\home_ if not exist, place there the shortcut script file for your game and BRVM version
 4. Using _Activity Launcher_, run the _Termux Shortcut_ activity of the _Termux Widget_ app, and tap on the shortcut script file to add it to the homescreen
 5. The game may be run minimized, tap _Termux_ in the notification panel to open it. If you have done everything correctly, your game will be run instead of the file manager
-6. If the game does not run directly from the shortcut, enable _Force landscape orientation_ in _Termux-x11_ settings
+6. If the game does not run directly from the shortcut, enable _Force Landscape Orientation_ in _Termux-x11_ settings
 7. Some games may require a specific action to be successfully run from shortcut
 
 
 
 ## Development builds
 
-In the following repository, you can find some development builds of the project and experimental pre-configured games:
-
-https://github.com/Gamelover7825/BRVM-Development
+You can find here some development builds of the project and experimental pre-configured games: https://github.com/Gamelover7825/BRVM-Development
 
 
 ## Video preview
