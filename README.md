@@ -12,7 +12,7 @@
 
 **RAM:** 6+ GB
 
-## Installation and usage
+## Installation
 1. Install the provided versions of _Termux_, _Termux-x11_ and _InputBridge_
 2. Put the _BRVM.tar.gz_ file into the _Download_ folder
 3. Run the following commands in _Termux_:
