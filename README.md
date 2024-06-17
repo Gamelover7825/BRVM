@@ -38,7 +38,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 
 ## How to get games
 
-You can find here some games pre-configured for minimal memory usage: https://github.com/Gamelover7825/BRVM-PreconfiguredGames
+You can find here some games pre-configured for minimal memory usage: https://github.com/Gamelover7825/BRVM-PreconfiguredGames/releases
 
 You can find here some controls profiles for the _InputBridge_ app: https://github.com/Gamelover7825/BRVM-PreconfiguredGames/releases/tag/controls_ib
 
