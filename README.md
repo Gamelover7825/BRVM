@@ -3,8 +3,6 @@
 
 **Discord server:** https://discord.gg/PNUGHgDUb6
 
-**Video preview:** https://youtu.be/KRvqqQESlO8
-
 ### Requirements
 **OS:** 64-bit Android 10.0+
 
