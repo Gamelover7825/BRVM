@@ -1,8 +1,6 @@
 # BriarRose Gaming Virtual Machine
 ![1](https://github.com/Gamelover7825/BRVM/assets/44730743/99e5da16-9d12-4d04-9473-4d3393e98482)
 
-**Discord server:** https://discord.gg/PNUGHgDUb6
-
 ### Requirements
 **OS:** 64-bit Android 10.0+
 
