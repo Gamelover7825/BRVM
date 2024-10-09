@@ -1,6 +1,6 @@
 ![1](https://github.com/Gamelover7825/BRVM/blob/main/resources/brvm_logo_large.png)
 
-### Requirements
+## Requirements
 **OS:** 64-bit Android 10.0+
 
 **GPU:** Adreno 610+ _(Mali and PowerVR not supported)_
