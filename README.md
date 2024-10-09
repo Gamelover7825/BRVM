@@ -1,4 +1,3 @@
-# BriarRose Gaming Virtual Machine
 ![1](https://github.com/Gamelover7825/BRVM/blob/main/resources/brvm_logo_large.png)
 
 ### Requirements
