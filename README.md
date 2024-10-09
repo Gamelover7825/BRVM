@@ -7,7 +7,7 @@
 
 **RAM:** 6+ GB
 
-### How to install
+## How to install
 1. Install the provided versions of _Termux_, _Termux-x11_ and _InputBridge_
 2. Put the _BRVM.tar.gz_ file into the _Download_ folder
 3. Run the following commands in _Termux_:
@@ -20,7 +20,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 4. Restart _Termux_ when a new line appears, then run the virtual machine using the `brvm` command
 5. Wait until the desktop is completely set up. Every time you restart _Termux_, run the virtual machine using the `brvm` command
 
-### Recommended Termux-x11 settings
+## Recommended Termux-x11 settings
 
 ***Display Resolution Mode** = exact*
 
@@ -38,7 +38,7 @@ You can find here some games pre-configured for minimal memory usage: https://gi
 You can find here some controls profiles for the _InputBridge_ app: https://github.com/Gamelover7825/BRVM-PreconfiguredGames/releases/tag/controls_ib
 
 
-### How to run the pre-configured games directly from the homescreen
+## How to run the pre-configured games directly from the homescreen
 
 
 1. Make sure that a supported BRVM version is installed and completely set up, Termux allows _notifications_ and _drawing over other apps_
