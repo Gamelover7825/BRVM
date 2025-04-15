@@ -5,7 +5,7 @@
 
 **GPU:** Adreno 610+ _(Mali and PowerVR not supported)_
 
-**RAM:** 6+ GB
+**RAM:** minimum 6, 8 or 12 GB _(depending on game)_
 
 ## How to install
 1. Install the provided versions of _Termux_, _Termux-x11_ and _InputBridge_
