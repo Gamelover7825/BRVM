@@ -20,7 +20,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 4. Restart _Termux_ when a new line appears, then run the virtual machine using the `brvm` command
 5. Wait until the desktop is completely set up. Every time you restart _Termux_, run the virtual machine using the `brvm` command
 
-## Recommended Termux-x11 settings
+# Recommended Termux-x11 settings
 
 ***Display Resolution Mode** = exact*
 
@@ -30,7 +30,7 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 
 ***Fullscreen on Device Display** = enabled* 
 
-## For Android 14.0+ users
+# For Android 14.0+ users
 
 If you have Android 14 or later, enter this command in Termux:
 ```
