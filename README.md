@@ -30,6 +30,18 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 
 ***Fullscreen on Device Display** = enabled* 
 
+## For Android 14.0+ users
+
+If you have Android 14 or later, enter this command in Termux:
+```
+pkg install termux-am
+```
+If you see errors when downloading, select another mirror using this command:
+```
+termux-change-repo
+```
+On Android 15.0+ games may not work in BRVM. If so, try GameHub, Winlator or MiceWine.
+
 
 ## How to get games
 
