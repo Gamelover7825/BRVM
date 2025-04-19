@@ -32,15 +32,10 @@ tar -zxf /sdcard/Download/BRVM.tar.gz -C /data/data/com.termux/files --recursive
 
 ### For Android 14.0+ users
 
-If you have Android 14 or later, enter this command in Termux:
-```
-pkg install termux-am
-```
-If you see errors when downloading, select another mirror using this command:
-```
-termux-change-repo
-```
-On Android 15.0+ games may not work in BRVM. If so, try GameHub, Winlator or MiceWine.
+If you have Android 14 or later, check out the new beta version 2.16 with Adreno 7xx support:
+https://github.com/Gamelover7825/BRVM-Development/releases/tag/2.16-dev
+
+On Android 15.0+ versions 2.8 and below do not work, try version 2.16, or any other emulator like GameHub, Winlator or MiceWine.
 
 
 ## How to get games
